@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dnyaneshwari kashid known as @dnyanu6410
 - 👀 I’m interested in Coding and devloping new things.
-- 🌱 I’m currently learning Selenium in java .
-- 💞️ I’m looking to Jobs opprtunity in QA Automation
+- 🌱 I’m currently learning Data analytics skills.
+- 💞️ I’m looking to Jobs opprtunity in Data analytics
 - 📫 How to reach me ,You can main me on dnyaneshwarikashid6410@gmail.com
 
 <!---
